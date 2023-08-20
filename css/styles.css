@@ -60,6 +60,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 .main-button {
+    font-family:"Roboto", sans-serif;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
@@ -125,7 +126,7 @@ background-color: #404BBF;
     font-size: 36px;
     font-weight: 700;
     text-transform: capitalize;
-    line-height: 1.11;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .portfolio-item {
@@ -133,10 +134,10 @@ background-color: #404BBF;
 }
 .third-title-portfolio {
     font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 .portfolio-text {
 font-size: 16px;
@@ -156,13 +157,13 @@ font-family: "Raleway", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     font-weight: 700;
-}
+}   
 .footer-logo-studio {
     color: #F4F4FD;
 }
 .text-footer {
     font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
 }
